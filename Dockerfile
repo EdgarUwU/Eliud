@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY . /usr/edgar/Documentos/Virtualizacion/Eliud
+COPY . C:\Users\edgar\Documents\Virtualización\Eliud
