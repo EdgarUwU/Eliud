@@ -1,2 +1,2 @@
-FROM httpd:2.4
-ADD . C:\Users\edgar\Documents\Virtualización\Eliud
+FROM httpd
+COPY ./index.html /usr/local/apache2/htdocs/
